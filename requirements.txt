@@ -1,0 +1,24 @@
+numpy
+pandas
+scikit-learn
+seaborn
+matplotlib
+# pyplot
+Pillow                    #for matplotlib
+wordcloud
+spacy
+nltk
+kaggle
+xgboost
+
+fastapi
+uvicorn
+pydantic
+streamlit
+scikit-learn
+xgboost
+joblib
+numpy
+requests
+
+docker
