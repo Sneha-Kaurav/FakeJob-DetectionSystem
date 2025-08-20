@@ -2,10 +2,10 @@
 
 <br>
 
-This is a machine learning project that detects fake job based on description of job which includes, salary, experience, education, job-role, job-description, place etc.
+This is a machine learning project that <b>detects fake job</b> based on description of job which includes, salary, experience, education, job-role, job-description, place etc.
 <br>
-EDA and Feature Engineering was done to gather insights from the data.
+<b>EDA and Feature Engineering </b> was done to gather insights from the data.
 <br>
-Two models were compared viz, RandomForest and XGBoost. The accuracy score for both models were calculated in which XGBoost gave higher accuracy.
+Two models were compared viz, <b> RandomForest and XGBoost</b>. The accuracy score for both models were calculated in which XGBoost gave higher accuracy.
 <br>
-Deployed the project on Render and used docker for containerization.
+Deployed the project on <b>Render</b> and used <b>docker</b> for containerization.
